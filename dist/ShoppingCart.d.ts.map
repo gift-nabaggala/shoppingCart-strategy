@@ -1,0 +1,1 @@
+{"version":3,"file":"ShoppingCart.d.ts","sourceRoot":"","sources":["../ShoppingCart.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAE5D,qBAAa,YAAY;IACvB,OAAO,CAAC,KAAK,CAAK;IAElB,OAAO,CAAC,KAAK,EAAE,MAAM;IAIrB,QAAQ,CAAC,QAAQ,EAAE,eAAe;CAInC"}

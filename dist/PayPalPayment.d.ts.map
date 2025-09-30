@@ -1,0 +1,1 @@
+{"version":3,"file":"PayPalPayment.d.ts","sourceRoot":"","sources":["../PayPalPayment.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAE5D,qBAAa,aAAc,YAAW,eAAe;IACvC,OAAO,CAAC,KAAK;gBAAL,KAAK,EAAE,MAAM;IACjC,GAAG,CAAC,MAAM,EAAE,MAAM,GAAG,IAAI;CAG1B"}
